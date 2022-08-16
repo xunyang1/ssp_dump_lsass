@@ -1,0 +1,5 @@
+﻿  a.cpp
+D:\tools\lsass\Project4\a.cpp(18,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\tools\lsass\Project4\a.cpp(20,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\tools\lsass\Project4\a.cpp(44,22): warning C4101: “hr”: 未引用的局部变量
+  Project4.vcxproj -> D:\tools\lsass\Project4\x64\Debug\Project4.dll
