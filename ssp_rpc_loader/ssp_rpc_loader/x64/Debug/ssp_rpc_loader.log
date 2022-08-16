@@ -1,0 +1,9 @@
+﻿  ssp_rpc_loader.cpp
+D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\ssp_rpc_loader\ssp_rpc_loader.cpp(27,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\ssp_rpc_loader\ssp_rpc_loader.cpp(27,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\ssp_rpc_loader\ssp_rpc_loader.cpp(27,10): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\ssp_rpc_loader\ssp_rpc_loader.cpp(38,42): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\ssp_rpc_loader\ssp_rpc_loader.cpp(39,55): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+  sspi_c.cpp
+  正在生成代码...
+  ssp_rpc_loader.vcxproj -> D:\dump_lsass-1c07b4038c7ef2c60584bec05d19ec4141ecb3cf\ssp_rpc_loader\x64\Debug\ssp_rpc_loader.exe
